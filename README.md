@@ -17,8 +17,8 @@ Sesuai dengan standar perancangan data warehouse, repositori ini dibagi menjadi 
 5. **Live Automated Dashboard**: Visualisasi interaktif yang menerapkan arsitektur *Live Connection* menggunakan sinkronisasi data bertahap (*chunking*) via Google Sheets API untuk menjamin data tetap *up-to-date*.
 
 ## 📊 Tautan Penting Project
-* **Interactive Dashboard**: [TEMPEL_LINK_LOOKER_STUDIO_ANDA_DI_SINI]
-* **Link Database Penyimpanan Cloud (Jika Diperlukan)**: [TEMPEL_LINK_GOOGLE_DRIVE_DATABASE_ELT_ANDA_DI_SINI]
+* **Interactive Dashboard**: [Looker Studio Live Dashboard](https://datastudio.google.com/u/0/reporting/488ccb55-46df-40ee-ab08-4bb1bf3b50c6/page/FLD1F/edit)
+
 
 ## 💻 Cara Menjalankan Pipeline (Reproducible)
 1. Buka folder `ETL_pipeline/` atau `ELT_pipeline/` lalu jalankan berkas `.ipynb` di Google Colab Anda.
