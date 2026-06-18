@@ -22,6 +22,6 @@ Sesuai dengan standar perancangan data warehouse, repositori ini dibagi menjadi 
 
 ## 💻 Cara Menjalankan Pipeline (Reproducible)
 1. Buka folder `ETL_pipeline/` atau `ELT_pipeline/` lalu jalankan berkas `.ipynb` di Google Colab Anda.
-2. Lakukan pengunggahan file dataset mentah asli `AB_US_2023.csv` ke menu folder penyimpanan sesi di sebelah kiri Google Colab.
+2. Lakukan pengunggahan file dataset mentah asli `AB_US_2023.csv` ke menu folder penyimpanan sesi di sebelah kiri Google Colab dan menambahkan link dataset ke-2 kedalam kode di Google Colab.
 3. Pilih menu **Runtime** -> **Jalankan semua** (Run All) pada Google Colab secara berurutan.
 4. Pada bagian akhir skrip ELT, sistem akan meminta persetujuan otorisasi akun Google Anda untuk melakukan sinkronisasi data *live* otomatis langsung ke ekosistem awan (*cloud*).
